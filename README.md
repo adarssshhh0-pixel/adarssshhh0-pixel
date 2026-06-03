@@ -28,5 +28,5 @@
 ## 🌍 Open Source
 - 🔀 Actively contributing to public repos
 - 🐛 Looking for `good-first-issue` tags to work on
-- 💡 Goal: Make at least 2 meaningful PRs every month
+- 💡 Goal: Make at least 2 meaningful PRs every month.
 
