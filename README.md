@@ -5,9 +5,6 @@
 🔭 Building: Web apps & AI-powered tools  
 📍 Indore, India
 
-# 💫 About Me:
-# Hey, I'm Adarsh 👋<br>🎓 1st-year BTech CSIT @ Symbiosis University of Applied Sciences  <br>💻 Web Developer in progress | Open Source Enthusiast  <br>🌱 Currently learning: React.js  <br>🔭 Building: Web apps & AI-powered tools  <br>📍 Bhopal, India
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hDHUvF9hNd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ adarsh-hazari-58659a384 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarssshhh0@gmail.com) 
