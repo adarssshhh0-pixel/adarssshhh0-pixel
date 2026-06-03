@@ -1,4 +1,4 @@
-# Hey, I'm Adarshh 👋
+# Hey, I'm Adarsh 👋
 🎓 1st-year BTech CSIT @ Symbiosis University of Applied Sciences  
 💻 Web Developer in progress | Open Source Enthusiast  
 🌱 Currently learning: React.js  
