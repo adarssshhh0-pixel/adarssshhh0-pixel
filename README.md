@@ -25,5 +25,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=adarssshhh0-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌍 Open Source
+- 🔀 Actively contributing to public repos
+- 🐛 Looking for `good-first-issue` tags to work on
+- 💡 Goal: Make at least 2 meaningful PRs every month
 
